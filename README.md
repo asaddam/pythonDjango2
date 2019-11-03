@@ -1,1 +1,1 @@
-# pythonDjango2
+# bootcampxiii_django_for_beginner
